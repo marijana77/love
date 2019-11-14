@@ -1,0 +1,36 @@
+body{
+    background-image: url('11.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+legend{
+    font-style: oblique;
+    color: #ffe6ff;
+    font-size: 50px;
+}
+p{
+    font-style: italic;
+    font-size: 25px;
+    color: #ffe6ff;
+}
+form
+{ line-height: 40px;
+     font-size: 25px;
+    width: 550px;
+    color: #ffe6ff;
+ overflow: hidden;
+margin: auto;
+
+
+}
+form input
+{
+    display: inline-table;
+}
+form label{
+    float: left;
+    width: 500px;
+}
+
